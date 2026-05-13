@@ -1,0 +1,11 @@
+[
+  { "ticker": "MELI",  "avgPrice": 1690.41, "shares": 1.2 },
+  { "ticker": "IREN",  "avgPrice": 60.48,   "shares": 26 },
+  { "ticker": "RKLB",  "avgPrice": 66.96,   "shares": 5 },
+  { "ticker": "QQQ",   "avgPrice": 439.87,  "shares": 1.39 },
+  { "ticker": "AMZN",  "avgPrice": 213.01,  "shares": 6.46 },
+  { "ticker": "CIFR",  "avgPrice": 16.64,   "shares": 47 },
+  { "ticker": "SPY",   "avgPrice": 625.21,  "shares": 27 },
+  { "ticker": "ASTS",  "avgPrice": 57.69,   "shares": 24 },
+  { "ticker": "LITE",  "avgPrice": 1032.47, "shares": 0.5 }
+]
